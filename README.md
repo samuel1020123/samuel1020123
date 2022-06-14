@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @samuel1020123
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+- 👋 opa se tá bom meu nome é SAMUEL 
+- 👀 meu email de contato samuel.simplicio.457
 
-<!---
-samuel1020123/samuel1020123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
